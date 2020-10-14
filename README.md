@@ -3,7 +3,7 @@ It's the isogram word guessing game Bull Cow! A Bull means that you have a right
 
 To start the game:  
 
-Got to BullCowGame-starter-kit -> Build -> WindowsNoEditor  
+Download the game from https://drive.google.com/file/d/1zLbRKB8o1otRQt8PRzg5E0TTwYhjvNXI/view?usp=sharing
 
 Select the BullCowGame.exe   
 
